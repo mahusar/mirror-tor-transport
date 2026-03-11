@@ -16,7 +16,7 @@ runs as a Tor hidden service, getting a `.onion` address that players use to con
 Windows:
 - Install Tor standalone via [Expert Bundle](https://www.torproject.org/download/tor/)
 - Add torrc config file: SocksPort 9050 | ControlPort 9051 | DataDirectory tor_data | HiddenServiceDir C:\Tor\hidden\ | HiddenServiceVersion 3 | HiddenServicePort 7777 127.0.0.1:7777
-- Run \tor.exe -f torrc   
+- Run .\tor.exe -f torrc   
 
 Unity:
 - Install Mirror 86.12.2
