@@ -38,3 +38,5 @@ Connecting:
 Tor routes through 3 relays worldwide so expect 400-800ms RTT.
 
 ![Alt text](Assets/Screens/MirrorTor.png)
+
+https://www.youtube.com/watch?v=sugnSxkJ5TE
